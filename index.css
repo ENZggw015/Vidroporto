@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvPiCG7Jvwgky6NFJvU4vIKyvoCZhIKnh6w&usqp=CAU);
+    background-size: 1600px;
+}
+
+.container {
+    background-color:rgb(185, 77, 63);
+    padding: 30px;
+    border-radius:25px;
+    box-shadow: 15px 15px 10px black;
+}
